@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/09 18:06:25.000.150,=C:\Users\marcos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/22 10:04:27.000.640,=C:\Users\marcos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/04 18:05:40.000.509,=C:\Users\marcos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/05/06 18:13:08.000.238,=C:\Users\marcos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/05/06 18:20:34.000.877,C:\Users\marcos\Documents\Embarcadero\Studio\Projects\Unit2.pas=E:\producao\checkout\ufrmInicial.pas</Transaction>
+    <Transaction>2021/05/06 18:20:34.000.877,C:\Users\marcos\Documents\Embarcadero\Studio\Projects\Unit2.fmx=E:\producao\checkout\ufrmInicial.fmx</Transaction>
+    <Transaction>2021/05/06 18:20:44.000.944,C:\Users\marcos\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\producao\checkout\Checkout.dproj</Transaction>
+    <Transaction>2021/05/07 14:58:22.000.664,=E:\producao\checkout\u99Permissions.pas</Transaction>
+    <Transaction>2021/05/07 14:58:22.000.613,=E:\producao\checkout\Androidapi.JNI.Network.pas</Transaction>
+    <Transaction>2021/05/07 14:58:22.000.684,=E:\producao\checkout\uFancyDialog.pas</Transaction>
+    <Transaction>2021/05/07 14:58:22.000.644,=E:\producao\checkout\Loading.pas</Transaction>
+    <Transaction>2021/05/07 15:01:40.000.657,E:\producao\checkout\Androidapi.JNI.Network.pas=</Transaction>
+    <Transaction>2021/11/12 15:06:17.000.965,=E:\producao\checkout\MsiTef.pas</Transaction>
+    <Transaction>2021/11/12 15:06:23.000.497,=E:\producao\checkout\PayGo.pas</Transaction>
+    <Transaction>2021/11/12 15:06:28.000.186,=E:\producao\checkout\Tef.Types.pas</Transaction>
+    <Transaction>2021/11/12 15:09:46.000.963,E:\producao\checkout\PayGo.pas=</Transaction>
+    <Transaction>2021/11/16 20:11:16.000.376,=E:\producao\checkout\libs\Elgin.JNI.E1.pas</Transaction>
+    <Transaction>2021/11/16 20:11:24.000.448,=E:\producao\checkout\libs\Elgin.JNI.InterfaceAutomacao.pas</Transaction>
+    <Transaction>2021/11/16 20:11:29.000.725,=E:\producao\checkout\libs\Elgin.JNI.SAT.pas</Transaction>
+    <Transaction>2021/11/16 20:15:31.000.616,=E:\producao\checkout\libs\InterfaceAutomacao-v2.0.0.8.jar</Transaction>
+    <Transaction>2021/11/16 20:16:23.000.380,=E:\producao\checkout\libs\usbserial-4.5.2.jar</Transaction>
+    <Transaction>2021/11/16 20:16:40.000.981,=E:\producao\checkout\libs\minipdvm8.jar</Transaction>
+    <Transaction>2021/11/16 20:16:59.000.653,=E:\producao\checkout\libs\common-lang3.jar</Transaction>
+    <Transaction>2021/11/16 20:17:16.000.361,=E:\producao\checkout\libs\core-3.4.1.jar</Transaction>
+    <Transaction>2021/11/16 20:17:34.000.490,=E:\producao\checkout\libs\e1-v1.0.6-release.jar</Transaction>
+    <Transaction>2021/11/16 20:17:50.000.009,=E:\producao\checkout\libs\cloudpossdk-s-1.0.2.jar</Transaction>
+    <Transaction>2021/11/16 20:18:15.000.393,E:\producao\checkout\libs\cloudpossdk-s-1.0.2.jar=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="" Android64=""/>
+		<Phpmac iOSSimulator="iPhone"/>
+		<PIOS iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
